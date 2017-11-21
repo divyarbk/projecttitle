@@ -1,0 +1,17 @@
+<!Doctype html>
+<html>
+<title> template 2</title>
+<head>
+<meta charset="UTF-8">
+
+</head>
+<body link="red" vlink="green"size="40">
+<p align="center" text="yellow">I am learning programing language 
+step by step from 72Coder.com.
+
+
+</p>
+<a href="http://www.google.com" target="_blank">Google </a><br>
+<a href="http://sinphyukyun.com" target="_blank">Sin Phyu Kyun </a>
+</body>
+</html>
